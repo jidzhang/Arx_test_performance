@@ -1,0 +1,7 @@
+
+LIBRARY      "tsztest_performance"
+
+EXPORTS
+	acrxEntryPoint		PRIVATE
+	acrxGetApiVersion	PRIVATE
+
